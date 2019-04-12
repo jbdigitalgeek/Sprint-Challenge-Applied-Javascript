@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+---Document Object Model, includes everything inside the "window/global", but it is not. 
+
 2. What is an event?
+
+---Something the browser observes the user doing
 
 3. What is an event listener?
 
+---Causes a reaction to certain events i.e. 'click' "do this"
+
 4. Why would we convert a NodeList into an Array?
 
+---In order to access the contents of said nodes you would have to convert to an array and then apply array methods.
+
 5. What is a component?
+
+---A combination of html/css/js that creates reusable code.
 
 ### Git Set up
 
