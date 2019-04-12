@@ -32,7 +32,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
----Document Object Model, includes everything inside the "window/global", but it is not. 
+---Document Object Model, includes everything inside the "window/global".
 
 2. What is an event?
 
